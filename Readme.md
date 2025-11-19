@@ -12,7 +12,7 @@ This project analyzes how Bitcoin market sentiment (Fear/Greed) impacts trader b
 | File | Description |
 |------|-------------|
 | analysis.ipynb | Full data cleaning, merging, EDA, and insights |
-| Trader_Insights_Summary.pdf | 1-page executive summary |
+| Trader_Insights_Summary.pdf | 2-page executive summary |
 | data/ | Raw datasets (Fear-Greed + Hyperliquid trades) |
 
 ---
@@ -60,4 +60,4 @@ This project analyzes how Bitcoin market sentiment (Fear/Greed) impacts trader b
 
 ## 📬 Contact
 Prepared by: **Harshith**  
-Submission for: **Junior Data Scientist – Trader Behavior Insights**
+Submission for: **PrimeTrade.ai – Trader Behavior Insights**
